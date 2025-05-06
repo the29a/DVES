@@ -1,7 +1,8 @@
 # Damn Vulnerable Exposed Secrets
 
 Various dummy secrets in various formats for security tools testing. 
-
+> [!WARNING]
+> All secrets are generated and non-valid, repo made for security testing and education purposes.
 
 
 | Name                                                                      | Description                                                                    | Git Support   | Language   | License    |
