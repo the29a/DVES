@@ -4,6 +4,21 @@ Various dummy secrets in various formats for security tools testing.
 > [!WARNING]
 > All secrets are generated and non-valid, repo made for security testing and education purposes.
 
+```
+.
+├── aws
+├── bitbucket
+├── docker
+├── github
+├── gitlab
+├── google
+├── heroku
+├── sendgrid
+├── slack
+├── ssh
+├── stripe
+└── twilio
+```
 
 | Name                                                                      | Description                                                                    | Git Support   | Language   | License    |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------- | ---------- | ---------- |
