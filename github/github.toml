@@ -1,0 +1,2 @@
+GITHUB_PAT = "ghp_abcdefghijklmnopqrstuvwxyz1234567890AB"
+GITHUB_FINE_GRAINED = "github_pat_1234ABCDEFGHIJKLMNOPQRSTuvwxYZabcdEFGH567890"

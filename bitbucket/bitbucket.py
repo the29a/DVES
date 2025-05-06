@@ -1,0 +1,1 @@
+BITBUCKET_PAT = "bbp-abcdefghijklmnopqrstuvwxyz1234"

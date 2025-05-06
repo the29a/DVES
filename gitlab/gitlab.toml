@@ -1,0 +1,3 @@
+GITLAB_PAT = "glpat-abcdefghijklmnopqrstuvwxyz123456"
+GITLAB_RUNNER_TOKEN = "GR1348941vGz5V2MzNRsT"
+GITLAB_DEPLOY_TOKEN = "gitlab+deploy-token-123456:AbCdEfGhIjKlMnOp"
