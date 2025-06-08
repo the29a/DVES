@@ -20,7 +20,6 @@ Various dummy secrets in various formats for security tools testing.
 └── twilio
 ```
 
-
 | Name                                                                      | Description                                                                    | Git Support   | Language   | License    |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------- | ---------- | ---------- |
 | [**TruffleHog**](https://github.com/trufflesecurity/trufflehog)           | Find secrets and credentials in repos, files and API. Support JSON/regex/diff. | ✅             | Python     | AGPL-3.0   |
