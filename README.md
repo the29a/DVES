@@ -30,7 +30,6 @@ Various dummy secrets in various formats for security tools testing.
 | [**Talisman**](https://github.com/thoughtworks/talisman)                  | Git pre-commit hook for blocking leaked tokens/keys.                           | ✅             | Go         | Apache-2.0 |
 | [**shhgit**](https://github.com/eth0izzle/shhgit)                         | Realtime GitHub monitoring.                                                    | ❌             | Go         | MIT        |
 
-
 > [!WARNING]  
 > OSS Version of Trufflehog have scan source limitations. See [documentation](https://docs.trufflesecurity.com/scan-data-for-secrets).
 
